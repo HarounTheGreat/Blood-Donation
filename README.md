@@ -10,7 +10,8 @@
 
 <!-- ![img](images/gif.gif) -->
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/HarounTheGreat/Data-Analytics/main?filepath=allComments.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/HarounTheGreat/Blood-Donation/main?filepath=notebook.ipynb)
+
 
 [Click here](https://drive.google.com/drive/folders/1O89DGOIu7uH4DitKLcaCsZGTO_blpdWh?usp=share_link)
 
