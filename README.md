@@ -17,7 +17,6 @@
 
 
 
-[Click here](https://drive.google.com/drive/folders/1O89DGOIu7uH4DitKLcaCsZGTO_blpdWh?usp=share_link)
 
 |     | Variable                                   | Explanation                                                                                                                              |
 | --: | :----------------------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------- |
@@ -28,8 +27,24 @@
 |   4 | whether he/she donated blood in March 2007 | a binary variable representing whether he/she donated blood in March 2007 (1 stands for donating blood; 0 stands for not donating blood) |
 
 __________________
+
+
+![img](img/gif.gif)
+
 :point_down:
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/HarounTheGreat/Blood-Donation/main?filepath=index.ipynb)
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/HarounTheGreat/Blood-Donation/main?filepath=notebook.ipynb)
+
+__________________
+
+![img](img/Data.PNG)
+
+![img](img/p1.png)
+
+![img](img/p2.png)
+
+**HIV**
+
+![img](img/p3.png)
