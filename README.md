@@ -41,10 +41,10 @@ __________________
 
 ![img](img/Data.PNG)
 
-![img](img/p1.png)
+![img](img/p1.PNG)
 
-![img](img/p2.png)
+![img](img/p2.PNG)
 
 **HIV**
 
-![img](img/p3.png)
+![img](img/p3.PNG)
