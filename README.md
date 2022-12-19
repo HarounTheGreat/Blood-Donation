@@ -30,5 +30,6 @@
 __________________
 :point_down:
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/HarounTheGreat/Blood-Donation/main?labpath=notebook.ipynb)
-__________
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/HarounTheGreat/Blood-Donation/main?filepath=index.ipynb)
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/HarounTheGreat/Blood-Donation/main?filepath=notebook.ipynb)
